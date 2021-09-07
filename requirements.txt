@@ -10,7 +10,7 @@ idna==2.5
 ipaddress==1.0.18
 ndg-httpsclient==0.4.2
 olefile==0.44
-Pillow==4.1.1
+Pillow==8.3.2
 pyasn1==0.2.3
 pycparser==2.17
 pyOpenSSL==17.0.0
